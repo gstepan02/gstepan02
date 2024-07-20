@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <h1>Hi there, I'm Stepan</h1>
+  <h3>ML-engineer from Russia</h3>
+</div>
