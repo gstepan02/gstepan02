@@ -18,6 +18,8 @@
 - :zap: In my free time, I play tennis
 - :mailbox: Reach me by [LinkedIn](https://www.linkedin.com/in/stepan-gromov), [E-mail](mailto:gstepan02@mail.ru)
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
@@ -30,4 +32,9 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gstepan02&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<div id="stat">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gstepan02&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gstepan02&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gstepan02&theme=github_dark" alt=""/>
+</div>
