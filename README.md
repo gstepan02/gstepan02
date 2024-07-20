@@ -8,8 +8,4 @@
   </a>
   <a href="https://www.youtube.com/channel/UCrv2heuDmsTYV2SfxwPY-kQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-    <a href="https://www.youtube.com/channel/UCrv2heuDmsTYV2SfxwPY-kQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
 </div>
