@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Stepan</h1>
-  <h3>ML-engineer from Russia</h3>
+  <h3>Project Manager from Russia</h3>
 </div>
 
 <div id="badges" align="center">
